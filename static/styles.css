@@ -32,8 +32,6 @@ h3 {
 p {
     font-size: 20px;
     color: #B09525;
-    padding-top: 60px;
-    padding-bottom: 60px;
     font-family: 'Montserrat', sans-serif;
  }
 
@@ -70,6 +68,8 @@ p {
 .section {
     width: 70%;
     margin: auto;
+    padding-top: 70px;
+    padding-bottom: 60px;
     border-radius: 10px;
 }
 
