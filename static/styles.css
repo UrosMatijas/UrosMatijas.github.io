@@ -1,0 +1,120 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    position: relative;
+    margin: 0;
+}
+
+h1 {
+    color: #04AA6D;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+h2 {
+    color: #04AA6D;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+h3 {
+    color: #FF99FF;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+p {
+    font-size: 20px;
+    color: #B09525;
+    font-family: 'Montserrat', sans-serif;
+ }
+
+.topnav {
+  width: 100%;
+  background-color: #333;
+  overflow: hidden;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  position: fixed;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  margin-right: 20px;
+  padding: 14px 16px;
+  font-size: 17px;
+  border-radius: 10px;
+  transition: all ease-in-out 500ms;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: #04AA6D;
+  color: black;
+  border-radius: 10px;
+}
+
+.topnav a:target {
+    background-color: #CCE5FF;
+}
+
+.section {
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+#home {
+  background-color: #E2DFD1;
+  padding: 30px;
+  padding-top: 50px;
+  text-align: left;
+}
+
+#about {
+  background-color: #f9f9f9;
+  text-align: right;
+  padding: 30px;
+}
+
+#education {
+  background-color: #E2DFD1;
+  text-align: left;
+  padding: 30px;
+}
+
+#experience {
+  background-color: #f9f9f9;
+  text-align: right;
+  padding: 30px;
+}
+
+#skills {
+  background-color: #E2DFD1;
+  text-align: left;
+  padding: 30px;
+}
+
+#projects {
+  background-color: #f9f9f9;
+  text-align: right;
+  padding: 30px;
+}
+
+#contact {
+  background-color: #E2DFD1;
+  text-align: left;
+  padding: 30px;
+}
+
+
+
+
+
+
