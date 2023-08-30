@@ -11,6 +11,7 @@ h1 {
     color: #04AA6D;
     font-weight: bold;
     font-size: 50px;
+    position: relative;
     font-family: 'Bruno Ace SC', cursive;
 }
 
@@ -31,6 +32,8 @@ h3 {
 p {
     font-size: 20px;
     color: #B09525;
+    padding-top: 60px;
+    padding-bottom: 60px;
     font-family: 'Montserrat', sans-serif;
  }
 
